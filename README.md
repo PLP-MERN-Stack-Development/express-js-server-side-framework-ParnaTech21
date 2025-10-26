@@ -6,4 +6,4 @@ This project is a RESTful API built with Express.js that allows CRUD operations 
 ## ⚙️ Setup Instructions
 1. Clone the repository  
    ```bash
-   git clone <your_repo_url>
+   git clone <https://github.com/PLP-MERN-Stack-Development/express-js-server-side-framework-ParnaTech21.git>
